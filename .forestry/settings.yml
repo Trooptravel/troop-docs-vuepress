@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: docs
+  path: docs/**/*
   label: Troop
 - type: directory
   path: docs
