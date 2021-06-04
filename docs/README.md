@@ -4,7 +4,7 @@ title: Title 1
 description: Description 1
 
 ---
-# ![](/uploads/3-word-find.jpg)Hello VuePress
+Hello VuePress
 
 ## Hello VuePress2
 
