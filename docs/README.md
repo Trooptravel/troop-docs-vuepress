@@ -2,9 +2,9 @@
 lang: en-US
 title: Title 1
 description: Description 1
----
 
-# Hello VuePress
+---
+# ![](/uploads/3-word-find.jpg)Hello VuePress
 
 ## Hello VuePress2
 
