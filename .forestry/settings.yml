@@ -9,7 +9,7 @@ sections:
   label: Troop
 - type: directory
   path: docs
-  label: Troop
+  label: Troop2
   create: all
   match: "**/*"
 upload_dir: uploads
